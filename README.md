@@ -1,7 +1,7 @@
 ### Hi there 👋
-- I'm currently working on Leetcode problems and learning basic tools used for the backend and cloud.
-- Main skills: Machine Learning and Natural Language Processing.
-- Other skills: Firmware development.
+- I'm currently working on Leetcode problems and learning Linux Kernel.
+- Main skills: Bare-metal Firmware development and System Programming.
+- Other skills: Machine Learning and Natural Language Processing.
 <!--
 **tommyvsfu1/tommyvsfu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
